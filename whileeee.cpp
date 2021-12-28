@@ -8,7 +8,7 @@ int main(){
 	  
 	//deklarasi variabel//  
 	int i;
-int k;
+	int k;
 	
 	
     //peruangan for
