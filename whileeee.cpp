@@ -7,7 +7,7 @@ int main(){
 	kelas B*/
 	  
 	//deklarasi variabel//  
-       int i;
+int i;
 int k;
 	
 	
